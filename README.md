@@ -13,10 +13,7 @@ Move your **index finger** to control the snake.
 - Press **ESC** to quit the camera
 - Press **R** to restart after Game Over
 - Press **Q** to quit the game
-- ---
---> 🧰 Requirements>>>
-- Python 3
-- Webcam
-- Python packages:
+
+
 
 
